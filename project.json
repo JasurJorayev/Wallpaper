@@ -1,0 +1,16 @@
+{
+    "title": "Ko'z Harakati",
+    "description": "Sichqoncha va barmoq harakatiga qarab aylanuvchi ko'zlar",
+    "type": "web",
+    "file": "index.html",
+    "mobile": true,
+    "general": {
+        "properties": {
+            "schemecolor": {
+                "text": "Fon rangi",
+                "type": "color",
+                "value": "0 0 0"
+            }
+        }
+    }
+}
